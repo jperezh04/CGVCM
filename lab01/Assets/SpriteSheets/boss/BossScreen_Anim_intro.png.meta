@@ -1,0 +1,1703 @@
+fileFormatVersion: 2
+guid: 65cd19266dc00af47bb70d72743de9ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7718566547551685729
+    second: BossScreen_Anim_intro_0
+  - first:
+      213: 8848637769702666835
+    second: BossScreen_Anim_intro_1
+  - first:
+      213: -8027889715420211944
+    second: BossScreen_Anim_intro_2
+  - first:
+      213: -1382728721765739674
+    second: BossScreen_Anim_intro_3
+  - first:
+      213: 6240152837892192968
+    second: BossScreen_Anim_intro_4
+  - first:
+      213: 3766079100960955370
+    second: BossScreen_Anim_intro_5
+  - first:
+      213: 195023424380871346
+    second: BossScreen_Anim_intro_6
+  - first:
+      213: -560978217717261636
+    second: BossScreen_Anim_intro_7
+  - first:
+      213: -3420430772537479685
+    second: BossScreen_Anim_intro_8
+  - first:
+      213: -3809769405619574942
+    second: BossScreen_Anim_intro_9
+  - first:
+      213: -5016409480197923490
+    second: BossScreen_Anim_intro_10
+  - first:
+      213: -2581674321551750461
+    second: BossScreen_Anim_intro_11
+  - first:
+      213: -8612126852658927197
+    second: BossScreen_Anim_intro_12
+  - first:
+      213: 6825051950049377615
+    second: BossScreen_Anim_intro_13
+  - first:
+      213: -6716408330999066947
+    second: BossScreen_Anim_intro_14
+  - first:
+      213: -4055780061684914106
+    second: BossScreen_Anim_intro_15
+  - first:
+      213: 6803318292125260878
+    second: BossScreen_Anim_intro_16
+  - first:
+      213: -2284080363868665487
+    second: BossScreen_Anim_intro_17
+  - first:
+      213: -4300692390258903760
+    second: BossScreen_Anim_intro_18
+  - first:
+      213: -1818788966406017408
+    second: BossScreen_Anim_intro_19
+  - first:
+      213: 1732693637727742492
+    second: BossScreen_Anim_intro_20
+  - first:
+      213: -1996277511126569673
+    second: BossScreen_Anim_intro_21
+  - first:
+      213: -4735808003743034964
+    second: BossScreen_Anim_intro_22
+  - first:
+      213: 8512970048947402146
+    second: BossScreen_Anim_intro_23
+  - first:
+      213: -4633792996177156590
+    second: BossScreen_Anim_intro_24
+  - first:
+      213: -8783938346514263795
+    second: BossScreen_Anim_intro_25
+  - first:
+      213: 907812018152948251
+    second: BossScreen_Anim_intro_26
+  - first:
+      213: -7982419212326796880
+    second: BossScreen_Anim_intro_27
+  - first:
+      213: -1615533139598822209
+    second: BossScreen_Anim_intro_28
+  - first:
+      213: -295884712714816792
+    second: BossScreen_Anim_intro_29
+  - first:
+      213: -1201676751811378149
+    second: BossScreen_Anim_intro_30
+  - first:
+      213: -289141859414271014
+    second: BossScreen_Anim_intro_31
+  - first:
+      213: -1052982954360958354
+    second: BossScreen_Anim_intro_32
+  - first:
+      213: 2890056978138743294
+    second: BossScreen_Anim_intro_33
+  - first:
+      213: -7671779110946595894
+    second: BossScreen_Anim_intro_34
+  - first:
+      213: 4975012223915034573
+    second: BossScreen_Anim_intro_35
+  - first:
+      213: -3140438764604091430
+    second: BossScreen_Anim_intro_36
+  - first:
+      213: 5809714171670575913
+    second: BossScreen_Anim_intro_37
+  - first:
+      213: 3645968373884812748
+    second: BossScreen_Anim_intro_38
+  - first:
+      213: -6146498005301033781
+    second: BossScreen_Anim_intro_39
+  - first:
+      213: 1427376753580473591
+    second: BossScreen_Anim_intro_40
+  - first:
+      213: -7081460658428453517
+    second: BossScreen_Anim_intro_41
+  - first:
+      213: 4086421003138123955
+    second: BossScreen_Anim_intro_42
+  - first:
+      213: -5438353501402202844
+    second: BossScreen_Anim_intro_43
+  - first:
+      213: -5731611546077144218
+    second: BossScreen_Anim_intro_44
+  - first:
+      213: -6491818392568980958
+    second: BossScreen_Anim_intro_45
+  - first:
+      213: 3685276534136978499
+    second: BossScreen_Anim_intro_46
+  - first:
+      213: -7256415944178265898
+    second: BossScreen_Anim_intro_47
+  - first:
+      213: 8222677968546875852
+    second: BossScreen_Anim_intro_48
+  - first:
+      213: -3854159532572504644
+    second: BossScreen_Anim_intro_49
+  - first:
+      213: 8922744135086240039
+    second: BossScreen_Anim_intro_50
+  - first:
+      213: -5544815218841502017
+    second: BossScreen_Anim_intro_51
+  - first:
+      213: 6365152991091106707
+    second: BossScreen_Anim_intro_52
+  - first:
+      213: 7904762727021762842
+    second: BossScreen_Anim_intro_53
+  - first:
+      213: -2277126763094633389
+    second: BossScreen_Anim_intro_54
+  - first:
+      213: 2632266039501343036
+    second: BossScreen_Anim_intro_55
+  - first:
+      213: 2632353238375894169
+    second: BossScreen_Anim_intro_56
+  - first:
+      213: -3766291162713483586
+    second: BossScreen_Anim_intro_57
+  - first:
+      213: 1848675056179767795
+    second: BossScreen_Anim_intro_58
+  - first:
+      213: 1608841975880391051
+    second: BossScreen_Anim_intro_59
+  - first:
+      213: 7238488977936382929
+    second: BossScreen_Anim_intro_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 393
+        width: 144
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93f7f5ae9422e490800000000000000
+      internalID: -7718566547551685729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_1
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 393
+        width: 144
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3527b316b2dacca70800000000000000
+      internalID: 8848637769702666835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_2
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 393
+        width: 144
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815dd5066d4379090800000000000000
+      internalID: -8027889715420211944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_3
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 393
+        width: 144
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6635c66bd8f8fcce0800000000000000
+      internalID: -1382728721765739674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_4
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 393
+        width: 144
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cab5beb1f9799650800000000000000
+      internalID: 6240152837892192968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_5
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 393
+        width: 144
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebdcc02dfcc34430800000000000000
+      internalID: 3766079100960955370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_6
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 393
+        width: 144
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b22a1d65ccd4b200800000000000000
+      internalID: 195023424380871346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_7
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 393
+        width: 144
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba1b3e78410738f0800000000000000
+      internalID: -560978217717261636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_8
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 393
+        width: 144
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfda618a5503880d0800000000000000
+      internalID: -3420430772537479685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_9
+      rect:
+        serializedVersion: 2
+        x: 2956
+        y: 393
+        width: 144
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267e4ed19eaf02bc0800000000000000
+      internalID: -3809769405619574942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 211
+        width: 144
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d96e4e722226ab0800000000000000
+      internalID: -5016409480197923490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_11
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 213
+        width: 144
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca092202ec0c2cd0800000000000000
+      internalID: -2581674321551750461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_12
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 211
+        width: 156
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a969aaa1449b7880800000000000000
+      internalID: -8612126852658927197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_13
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 178
+        width: 241
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4db740869477be50800000000000000
+      internalID: 6825051950049377615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_14
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 178
+        width: 252
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe835045368ac2a0800000000000000
+      internalID: -6716408330999066947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_15
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 178
+        width: 274
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648a828b589f6b7c0800000000000000
+      internalID: -4055780061684914106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_16
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 178
+        width: 260
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c1b00f0fd3a6e50800000000000000
+      internalID: 6803318292125260878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_17
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 178
+        width: 265
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179c929b2015d40e0800000000000000
+      internalID: -2284080363868665487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_18
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 289
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035746e9e0fd054c0800000000000000
+      internalID: -4300692390258903760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_19
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 198
+        width: 241
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e28f7421d52c6e0800000000000000
+      internalID: -1818788966406017408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_20
+      rect:
+        serializedVersion: 2
+        x: 2897
+        y: 280
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a675deea3cb0810800000000000000
+      internalID: 1732693637727742492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_21
+      rect:
+        serializedVersion: 2
+        x: 2918
+        y: 178
+        width: 241
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d233c2e2ccb44e0800000000000000
+      internalID: -1996277511126569673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_22
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 219
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1d17446b7074eb0800000000000000
+      internalID: -4735808003743034964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_23
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 206
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5bc07e725242670800000000000000
+      internalID: 8512970048947402146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_24
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 228
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216ea2422d571bfb0800000000000000
+      internalID: -4633792996177156590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_25
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 216
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01d517fc9e291680800000000000000
+      internalID: -8783938346514263795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_26
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 193
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1246d08832399c00800000000000000
+      internalID: 907812018152948251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_27
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 206
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b10201e400c83190800000000000000
+      internalID: -7982419212326796880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_28
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 8
+        width: 241
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb437534b297499e0800000000000000
+      internalID: -1615533139598822209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_29
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 18
+        width: 241
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e23a24eb6ec4ebf0800000000000000
+      internalID: -295884712714816792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_30
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 0
+        width: 241
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1400796c59c25fe0800000000000000
+      internalID: -1201676751811378149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_31
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 179
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb9ae3c203ccfbf0800000000000000
+      internalID: -289141859414271014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_32
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 179
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6216caf49d0361f0800000000000000
+      internalID: -1052982954360958354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_33
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 179
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1499a628b8b1820800000000000000
+      internalID: 2890056978138743294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_34
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 179
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb14c0ab8d588590800000000000000
+      internalID: -7671779110946595894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_35
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 179
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc78ea7424bca0540800000000000000
+      internalID: 4975012223915034573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_36
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 179
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad318e4159bea64d0800000000000000
+      internalID: -3140438764604091430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_37
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 179
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b3af8024040a050800000000000000
+      internalID: 5809714171670575913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_38
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 179
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd76bb3be4199230800000000000000
+      internalID: 3645968373884812748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_39
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 179
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4826531a043baa0800000000000000
+      internalID: -6146498005301033781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_40
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 178
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc70d5489f0fc310800000000000000
+      internalID: 1427376753580473591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_41
+      rect:
+        serializedVersion: 2
+        x: 2828
+        y: 179
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37dd773ec0999bd90800000000000000
+      internalID: -7081460658428453517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_42
+      rect:
+        serializedVersion: 2
+        x: 3174
+        y: 179
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b84eb66042e5b830800000000000000
+      internalID: 4086421003138123955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_43
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 87
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d7be9dd461784b0800000000000000
+      internalID: -5438353501402202844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_44
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 70
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b5b8d8aa93570b0800000000000000
+      internalID: -5731611546077144218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_45
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 18
+        width: 238
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a149c219d68e5a0800000000000000
+      internalID: -6491818392568980958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_46
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 18
+        width: 238
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c315c7b7bb42330800000000000000
+      internalID: 3685276534136978499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_47
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 18
+        width: 238
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d016c815280c4b90800000000000000
+      internalID: -7256415944178265898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_48
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 7
+        width: 238
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9caa9fb02dc1270800000000000000
+      internalID: 8222677968546875852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_49
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 18
+        width: 238
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd84594356438ac0800000000000000
+      internalID: -3854159532572504644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_50
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 18
+        width: 238
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721f3812484f3db70800000000000000
+      internalID: 8922744135086240039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_51
+      rect:
+        serializedVersion: 2
+        x: 2921
+        y: 18
+        width: 238
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbeb5c7afebdc03b0800000000000000
+      internalID: -5544815218841502017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_52
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 51
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393200fdbe0955850800000000000000
+      internalID: 6365152991091106707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_53
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 37
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1951e9a1db53bd60800000000000000
+      internalID: 7904762727021762842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_54
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 18
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354953116450660e0800000000000000
+      internalID: -2277126763094633389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_55
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 10
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c394dce3400b78420800000000000000
+      internalID: 2632266039501343036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_56
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 0
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c8eb0d25ff78420800000000000000
+      internalID: 2632353238375894169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_57
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb615c564227bbbc0800000000000000
+      internalID: -3766291162713483586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_58
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 0
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f968bc3b20d7a910800000000000000
+      internalID: 1848675056179767795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_59
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 0
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b899618c041c35610800000000000000
+      internalID: 1608841975880391051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossScreen_Anim_intro_60
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 0
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db7a70df57447460800000000000000
+      internalID: 7238488977936382929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BossScreen_Anim_intro_0: -7718566547551685729
+      BossScreen_Anim_intro_1: 8848637769702666835
+      BossScreen_Anim_intro_10: -5016409480197923490
+      BossScreen_Anim_intro_11: -2581674321551750461
+      BossScreen_Anim_intro_12: -8612126852658927197
+      BossScreen_Anim_intro_13: 6825051950049377615
+      BossScreen_Anim_intro_14: -6716408330999066947
+      BossScreen_Anim_intro_15: -4055780061684914106
+      BossScreen_Anim_intro_16: 6803318292125260878
+      BossScreen_Anim_intro_17: -2284080363868665487
+      BossScreen_Anim_intro_18: -4300692390258903760
+      BossScreen_Anim_intro_19: -1818788966406017408
+      BossScreen_Anim_intro_2: -8027889715420211944
+      BossScreen_Anim_intro_20: 1732693637727742492
+      BossScreen_Anim_intro_21: -1996277511126569673
+      BossScreen_Anim_intro_22: -4735808003743034964
+      BossScreen_Anim_intro_23: 8512970048947402146
+      BossScreen_Anim_intro_24: -4633792996177156590
+      BossScreen_Anim_intro_25: -8783938346514263795
+      BossScreen_Anim_intro_26: 907812018152948251
+      BossScreen_Anim_intro_27: -7982419212326796880
+      BossScreen_Anim_intro_28: -1615533139598822209
+      BossScreen_Anim_intro_29: -295884712714816792
+      BossScreen_Anim_intro_3: -1382728721765739674
+      BossScreen_Anim_intro_30: -1201676751811378149
+      BossScreen_Anim_intro_31: -289141859414271014
+      BossScreen_Anim_intro_32: -1052982954360958354
+      BossScreen_Anim_intro_33: 2890056978138743294
+      BossScreen_Anim_intro_34: -7671779110946595894
+      BossScreen_Anim_intro_35: 4975012223915034573
+      BossScreen_Anim_intro_36: -3140438764604091430
+      BossScreen_Anim_intro_37: 5809714171670575913
+      BossScreen_Anim_intro_38: 3645968373884812748
+      BossScreen_Anim_intro_39: -6146498005301033781
+      BossScreen_Anim_intro_4: 6240152837892192968
+      BossScreen_Anim_intro_40: 1427376753580473591
+      BossScreen_Anim_intro_41: -7081460658428453517
+      BossScreen_Anim_intro_42: 4086421003138123955
+      BossScreen_Anim_intro_43: -5438353501402202844
+      BossScreen_Anim_intro_44: -5731611546077144218
+      BossScreen_Anim_intro_45: -6491818392568980958
+      BossScreen_Anim_intro_46: 3685276534136978499
+      BossScreen_Anim_intro_47: -7256415944178265898
+      BossScreen_Anim_intro_48: 8222677968546875852
+      BossScreen_Anim_intro_49: -3854159532572504644
+      BossScreen_Anim_intro_5: 3766079100960955370
+      BossScreen_Anim_intro_50: 8922744135086240039
+      BossScreen_Anim_intro_51: -5544815218841502017
+      BossScreen_Anim_intro_52: 6365152991091106707
+      BossScreen_Anim_intro_53: 7904762727021762842
+      BossScreen_Anim_intro_54: -2277126763094633389
+      BossScreen_Anim_intro_55: 2632266039501343036
+      BossScreen_Anim_intro_56: 2632353238375894169
+      BossScreen_Anim_intro_57: -3766291162713483586
+      BossScreen_Anim_intro_58: 1848675056179767795
+      BossScreen_Anim_intro_59: 1608841975880391051
+      BossScreen_Anim_intro_6: 195023424380871346
+      BossScreen_Anim_intro_60: 7238488977936382929
+      BossScreen_Anim_intro_7: -560978217717261636
+      BossScreen_Anim_intro_8: -3420430772537479685
+      BossScreen_Anim_intro_9: -3809769405619574942
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

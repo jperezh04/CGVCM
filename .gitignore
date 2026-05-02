@@ -1,0 +1,67 @@
+# =========================
+# Unity generated folders
+# =========================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# =========================
+# Unity / Visual Studio generated files
+# =========================
+
+.vs/
+.vscode/
+
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# =========================
+# Builds generales ignorados
+# =========================
+
+[Bb]uild/
+[Bb]uilds/
+
+# =========================
+# Pero permitimos entregables específicos
+# =========================
+
+!Ejecutable/
+!Ejecutable/**
+!Entregables/
+!Entregables/**
+!Entregables/*.pdf
+
+# =========================
+# Unity packages / exports
+# =========================
+
+*.unitypackage
+
+# =========================
+# Android builds
+# =========================
+
+*.apk
+*.aab
+
+# =========================
+# Sistema operativo
+# =========================
+
+.DS_Store
+Thumbs.db
+desktop.ini
