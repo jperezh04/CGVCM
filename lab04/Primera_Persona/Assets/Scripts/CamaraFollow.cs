@@ -2,38 +2,77 @@ using UnityEngine;
 
 public class CameraFollow : MonoBehaviour
 {
-    [Header("Ajustes")]
-    [SerializeField] private float sensibilidad = 100f;
+    [Header("Ajustes de mouse")]
+    [SerializeField] private float sensibilidad = 150f;
     [SerializeField] private Transform player;
 
-    [Header("Estados")]
-    [SerializeField] private float rotacionVertical = 0f;
+    [Header("Posiciones de cámara")]
+    [SerializeField] private Vector3 posicionPrimeraPersona = new Vector3(0f, 1.6f, 0f);
+    [SerializeField] private Vector3 posicionTerceraPersona = new Vector3(0f, 2f, -4f);
+
+    [Header("Suavizado")]
+    [SerializeField] private float suavizadoCamara = 8f;
+
+    [Header("Estado")]
+    [SerializeField] private bool terceraPersona = false;
+
+    private float rotacionVertical = 0f;
 
     void Start()
     {
         Cursor.lockState = CursorLockMode.Locked;
         Cursor.visible = false;
+
+        if (player == null)
+        {
+            player = transform.parent;
+        }
+
+        // Inicia en primera persona
+        transform.localPosition = posicionPrimeraPersona;
     }
 
     void Update()
     {
-        float valorX = Input.GetAxis("Mouse X") * sensibilidad * Time.deltaTime;
-        float valorY = Input.GetAxis("Mouse Y") * sensibilidad * Time.deltaTime;
+        if (player == null) return;
 
-        rotacionVertical -= valorY;
+        // Cambiar entre primera y tercera persona con TAB
+        if (Input.GetKeyDown(KeyCode.Tab))
+        {
+            terceraPersona = !terceraPersona;
+        }
+
+        // Movimiento del mouse
+        float mouseX = Input.GetAxis("Mouse X") * sensibilidad * Time.deltaTime;
+        float mouseY = Input.GetAxis("Mouse Y") * sensibilidad * Time.deltaTime;
+
+        // Mirar arriba y abajo
+        rotacionVertical -= mouseY;
         rotacionVertical = Mathf.Clamp(rotacionVertical, -80f, 80f);
 
-        // La cámara mira arriba y abajo
+        // La cámara rota en X
         transform.localRotation = Quaternion.Euler(rotacionVertical, 0f, 0f);
 
-        // El jugador gira izquierda y derecha
-        if (player != null)
+        // El Player rota en Y
+        player.Rotate(Vector3.up * mouseX);
+
+        // Elegir posición según el modo de cámara
+        Vector3 posicionObjetivo;
+
+        if (terceraPersona)
         {
-            player.Rotate(Vector3.up * valorX);
+            posicionObjetivo = posicionTerceraPersona;
         }
         else
         {
-            Debug.LogWarning("CameraFollow: asigna el Player en el Inspector.");
+            posicionObjetivo = posicionPrimeraPersona;
         }
+
+        // Mover la cámara suavemente
+        transform.localPosition = Vector3.Lerp(
+            transform.localPosition,
+            posicionObjetivo,
+            suavizadoCamara * Time.deltaTime
+        );
     }
 }
