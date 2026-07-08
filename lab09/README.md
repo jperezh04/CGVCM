@@ -99,13 +99,3 @@ python src/object_recognizer_cli.py --source video --input data/video.mp4 --conf
 ## 7. Importante sobre el modelo
 
 Por defecto se usa `yolov8n.pt`, que se descarga automaticamente la primera vez. Si no tienes internet, descarga previamente el archivo `.pt` y colocalo en la carpeta `models/`.
-
-## 8. Que capturas colocar en el informe
-
-- Captura de la estructura del proyecto en VSCode.
-- Captura de la instalacion de dependencias.
-- Captura de la UI abierta en el navegador.
-- Captura subiendo una imagen JPG/PNG/WEBP.
-- Captura de la imagen detectada con cajas.
-- Captura de la tabla de detecciones.
-- Captura del CSV descargado o carpeta `runs/`.
